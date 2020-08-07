@@ -30,7 +30,7 @@ Now a days there are lots of open source projects avaiable from simple softwares
 
 ## Data:
 
-Data is really important as of now and if you have more data of repositries you can make a better contribution to community. While analysing Data plays a key role in those analysis of data sets consiting of repositries, so if you have good data set you can reach a good level of consistancy and accuracy. 
+Data is really important as of now and if you have more data of repositries you can make a better contribution to community. While analysing Data plays a key role in those analysis of data sets consisting of repositries, so if you have good data set you can reach a good level of consistancy and accuracy. 
 
 ## Method:
 Method used for this project are really easy and available for everyone the method used in it is called Survival Analysis Method. 
