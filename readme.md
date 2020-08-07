@@ -2,3 +2,6 @@
 
 
  [Capture the Feature Flag Detecting Feature Flags in Open Source](./CapturetheFeatureFlagDetectingFeatureFlagsinOpenSource/readme.md)
+
+
+ [Cheating Death](./CheatingDeath/readme.md)
