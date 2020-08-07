@@ -20,20 +20,26 @@ Carnegie Mellon University,USA ,Universidad Nacional de Colombia,Colombia
 
 ## Abstract:
 
-Flags are used widely in software developement and are very usefull feature in this project we will detect many flags used in software development. 
+Flags are used widely in software development and are very usefull feature in this project we will detect many flags used in software development. 
 
 ## Inroduction:
 
-Summing up this we can understand that feature flags _(aka. feature toggles)_ are becoming an increasingly important, but also controversial. Feature flags give a software organization the power to reduce risk, iterate quicker, and gain more control. Feature flags allow you to decouple feature rollout from code deployment.. Those are used to show or hide a code of the feature for testing and more purposes. 
+Summing up this we can understand that feature flags _(aka. feature toggles)_ are becoming an increasingly important, but also controversial.
 
-## Related Work On Fearure Flag:
+Feature flags give a software organization the power to reduce risk, iterate quicker, and gain more control. 
 
- There is lots of disscusion among global developers in area of feature flags and everone uses this technique so ensure best practices in software development. 
+Feature flags allow you to decouple feature rollout from code deployment.
+
+Those are used to show or hide a code of the feature for testing and more purposes. 
+
+## Related Work On Feature Flag:
+
+ There is lots of disscusion among global developers in area of feature flags and everyone uses this technique so ensure best practices in software development. 
 
  ## Capturing Feature Flag:
 
- We try to find open source softwares that use flag was very difficult feature and but we did a bit reach and we got goood results that it is widely used and much better to use flags. 
+ We try to find open source softwares that use flag was very difficult feature and but we did a bit reach and we got good results that it is widely used and much better to use flags. 
 
  ## Conclusion:
 
-This research was helped a lot buy softwares developer interviews who use flags and we were surprise to here much better results of using flags in your softwares so everybody should use them,well it helps a lot in maintainibility.
+This research was helped a lot buy software developer interviews who use flags and we were surprise to here much better results of using flags in your softwares so everybody should use them,well it helps a lot in maintainibility.
