@@ -2,7 +2,9 @@
 
 ## AUTHORS: 
 
-This paper was written by SebastianBaltes, ChristophTreude.
+This paper was written by 
++ SebastianBaltes
++ ChristophTreude
 
 ## VENUE:
 
