@@ -32,7 +32,7 @@ Summing up this we can understand that feature flags _(aka. feature toggles)_ ar
 
  ## Capturing Feature Flag:
 
- We try to find open source softwares that use flag was very difficult feature and but we did a bit reach and we got goood results that its is widely used and much better to use flags. 
+ We try to find open source softwares that use flag was very difficult feature and but we did a bit reach and we got goood results that it is widely used and much better to use flags. 
 
  ## Conclusion:
 
